@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;700&display=swap');
+
+/* Main page's css */
+body{
+    background-color: #2B2B2B;
+}
+
+#title{
+    font-size: 8vw;
+    text-align: center;
+    font-family: 'Roboto', Arial;
+    font-weight: bolder;
+    color: aliceblue;
+}
+#subtitle{
+    font-size: 4vw;
+    text-align: center;
+    font-family: 'Roboto', Arial;
+    font-weight: 400;
+    color: aliceblue;
+}
+#display{
+    font-size: 2.75vw;
+    text-align: center;
+    margin-top: 10vh;
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: white;
+}
+#about{
+    transition: 0.2s;
+    font-size: 40px;
+    position: absolute;
+    bottom: 0; right: 0;
+    margin: 20px 20px;
+    text-decoration: underline;
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: white;
+    user-select: none;
+}
+#about:hover{
+    transition: 0.2s;
+    font-size: 45px;
+    cursor: pointer;
+}
+#refresh{
+    transition: 5s;
+    opacity: 0;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto', Arial;
+    font-weight: 100;
+    color: white;
+}
+
+/* The about page's css */
+#about_text{
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: aliceblue;
+    font-size: 35px;
+    margin: 10% 15% 5% 15%;
+}
+#credits{
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: aliceblue;
+    font-size: 35px;
+    margin: 0 15% 5% 15%;
+}
+
+#back{
+    transition: 0.2s;
+    font-size: 40px;
+    position: absolute;
+    bottom: 0; right: 0;
+    margin: 20px 20px;
+    text-decoration: underline;
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: white;
+    user-select: none;
+}
+#back:hover{
+    transition: 0.2s;
+    font-size: 45px;
+    cursor: pointer;
+}
+
+#source{
+    transition: 0.2s;
+    font-size: 30px;
+    position: absolute;
+    bottom: 0; left: 0;
+    margin: 20px 20px;
+    text-decoration: underline;
+    font-family: 'Roboto', Arial;
+    font-weight: 500;
+    color: white;
+    user-select: none;
+}
+#source:hover{
+    transition: 0.2s;
+    font-size: 35px;
+    cursor: pointer;
+}
