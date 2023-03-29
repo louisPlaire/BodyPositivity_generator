@@ -9,6 +9,9 @@ let sentences = ['"The best gift you are ever going to give someone — the perm
                 ' “Don’t let the scale define you. Be active, be healthy, be happy.” — Unknown',
                 '“You need to know that you’re enough. … You are enough just as you are.” — Meghan Markle',
                 '“You have been criticizing yourself for years and it hasn’t worked. Try approving of yourself and see what happens.” — Louise Hay',
+                 'People often say that beauty is in the eye of the beholder, and I say that the most liberating thing about beauty is realizing that you are the beholder. — Salma Hayek',
+                '"I keep telling myself that I’m a human being, an imperfect human being who’s not made to look like a doll" — Emma Watson',
+                '"No body type is superior to another. Every body is different and each and every one of those body’s are beautiful and strong and important and worthy of great things" — Sailor Brinkley-Cook'
                 
 ]; // the list of all quotes
 
